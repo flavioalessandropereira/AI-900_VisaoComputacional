@@ -79,11 +79,12 @@ Não esquecer em "ticar" ✔ a caixa box ("I ackonowledge that this demo ..."), 
 ![alt text](./insights/face01.JPG)
 
 * Para realizar o teste foi utilizado a imagem "[family.jpg](./inputs/detectFaces/family.jpg)"
+
 ![alt text](./inputs/detectFaces/family.jpg)
 
 * Resultado [family_resultado.jpg](./inputs/detectFaces/family_resultado.jpg)
-![alt text](./inputs/detectFaces/family_resultado.jpg)
 
+<img src="./inputs/detectFaces/family_resultado.jpg" alt="Resultado" width="300">
 ---
 
 ### 📖 Read Text in Vision Studio
