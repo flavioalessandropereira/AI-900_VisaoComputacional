@@ -33,17 +33,6 @@ Essa ferramenta é excelente para quem quer automatizar processos que envolvem r
 
 ---
 
-## 🌄 Analyze Images in Vision Studio
-
-Com o **Analyze Images**, você pode extrair o conteúdo e o contexto de imagens com facilidade. Essa ferramenta é capaz de:
-
-- **Identificação de Objetos e Cenas**: Detecta elementos como pessoas, animais e cenários naturais, gerando uma visão completa da imagem. 🏞️
-- **Classificação Visual e Acessibilidade**: Cria descrições automáticas para imagens e facilita a organização e acessibilidade de conteúdos visuais. 👀
-
-Ideal para enriquecer aplicações com inteligência visual e tornar a navegação mais acessível!
-
----
-
 ## 📖 Read Text in Vision Studio
 
 A ferramenta **Read Text** permite extrair texto impresso e manuscrito de imagens e documentos. Com ela, você pode:
@@ -55,14 +44,50 @@ A ferramenta **Read Text** permite extrair texto impresso e manuscrito de imagen
 
 ---
 
+## 🌄 Analyze Images in Vision Studio
+
+Com o **Analyze Images**, você pode extrair o conteúdo e o contexto de imagens com facilidade. Essa ferramenta é capaz de:
+
+- **Identificação de Objetos e Cenas**: Detecta elementos como pessoas, animais e cenários naturais, gerando uma visão completa da imagem. 🏞️
+- **Classificação Visual e Acessibilidade**: Cria descrições automáticas para imagens e facilita a organização e acessibilidade de conteúdos visuais. 👀
+
+Ideal para enriquecer aplicações com inteligência visual e tornar a navegação mais acessível!
+
+---
+
 ## 🚀 Começando
 
-Para explorar essas ferramentas segue os links de orientações detalahdas e tutoriais:
+Para explorar essas ferramentas segue os links de tutorial e orientações detalhadas:
 
 1. [Detect faces in Vision Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04-face.html)
 
-2. [Analyze images in Vision Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/03-image-analysis.html) 
+2.  [Read text in Vision Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/05-ocr.html)
 
-3. [Read text in Vision Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/05-ocr.html)
+3. [Analyze images in Vision Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/03-image-analysis.html) 
+
 
 Se você está começando, não se preocupe! Cada uma dessas ferramentas é intuitiva e fornece suporte para iniciantes e profissionais.
+
+---
+
+### ✨Insights 
+
+#### 😎 Detect Faces in Vision Studio
+
+Não esquecer em "ticar" ✔ a caixa box ("I ackonowledge that this demo ..."), para que possa habilitar API, na identificação de pessoas na imagem.
+
+![alt text](./insights/face01.JPG)
+
+* Para realizar o teste foi utilizado a imagem "[family.jpg](./inputs/detectFaces/family.jpg)"
+![alt text](./inputs/detectFaces/family.jpg)
+
+* Resultado 
+![alt text](./inputs/detectFaces/family_resultado.jpg)
+
+---
+
+### 📖 Read Text in Vision Studio
+
+---
+
+#### 🌄 Analyze Images in Vision Studio
